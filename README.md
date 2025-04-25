@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Si Shuyi, currently sophomore majored in Engineering Physics in Tsinghua University. 
+My name is Si Shuyi, majoring in Engineering Physics in Tsinghua University. 
 <!--
 **pck101001/pck101001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
